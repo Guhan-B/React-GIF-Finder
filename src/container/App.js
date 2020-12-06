@@ -1,12 +1,15 @@
-import React , { Component } from 'react';
+import React, { Component } from 'react';
 
-import Layout from '../components/Layout/Layout'
+import Layout from '../components/Layout/Layout';
+import SearchBar from '../components/SearchBar/SearchBar';
+import GifGrid from '../components/GifGrid/GifGrid';
 
-class App extends Component{
-  render(){
+class App extends Component {
+  render() {
     return (
       <Layout>
-        <div>Search Bar and Gif Grid</div>
+        <SearchBar />
+        <GifGrid />
       </Layout>
     );
   }
