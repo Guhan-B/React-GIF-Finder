@@ -34,3 +34,23 @@
 .searchBar button:hover{
     background-color: #1f7c86;
 }
+
+@media only screen and (max-width: 700px){
+    .searchBar form{
+        padding: 0 1rem;
+    }
+}
+
+@media only screen and (max-width: 500px){
+    .searchBar form{
+        padding: 0;
+    }
+
+    .searchBar input{
+        width: 75%;
+    }
+
+    .searchBar button{
+        width: 25%;
+    }
+}
