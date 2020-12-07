@@ -1,6 +1,8 @@
 # Gif Finder Using React
 A simple react web app for searching gifs using tenor gif api.
 
+![alt text](https://raw.githubusercontent.com/Guhan-B/react-gif-finder/master/README.jpg)
+
 ## API Used
 <pre>
 API: <a href="https://tenor.com/gifapi">Tenor Gif Api</a>
