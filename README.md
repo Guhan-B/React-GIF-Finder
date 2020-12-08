@@ -13,4 +13,9 @@ Endpoints: Trending, Search
 Download / Clone the repository and run the follwing command in CLI to start the project.
 <pre>npm start</pre>
 
+### Project Link
+<a href="https://guhan-b.github.io/react-gif-finder/">view project</a>
+
 #### Happy Hacking 🥳 !!! 
+
+
